@@ -2,15 +2,15 @@
 
 ## Main Stuff
 
-1. Current Weather Display: Show the current weather conditions, such as temperature, humidity, wind speed, and weather description (e.g., sunny, cloudy, rainy). Includes an icon or image representing the weather condition.
+1. **Current Weather Display**: Show the current weather conditions, such as temperature, humidity, wind speed, and weather description (e.g., sunny, cloudy, rainy). Includes an icon or image representing the weather condition.
 
-3. Forecast: Display a weather forecast for upcoming days, usually including the high and low temperatures, weather descriptions, and possibly additional details like precipitation probability.
+3. **Forecast**: Display a weather forecast for upcoming days, usually including the high and low temperatures, weather descriptions, and possibly additional details like precipitation probability.
 
-4. Radar or Satellite Map: Include a radar or satellite map displaying the weather patterns and conditions in the region. This visual representation can give users a better understanding of the weather situation.
+4. **Radar or Satellite Map**: Include a radar or satellite map displaying the weather patterns and conditions in the region. This visual representation can give users a better understanding of the weather situation.
 
-5. Hourly Forecast: Provide an hourly breakdown of the weather forecast, indicating the expected conditions for each hour of the day. This feature is particularly useful for planning activities.
+5. **Hourly Forecast**: Provide an hourly breakdown of the weather forecast, indicating the expected conditions for each hour of the day. This feature is particularly useful for planning activities.
 
-6. Weather Alerts: Notify users about severe weather alerts, such as storms, hurricanes, or extreme temperatures. These alerts can be displayed prominently to ensure users stay informed and take necessary precautions.
+6. **Weather Alerts**: Notify users about severe weather alerts, such as storms, hurricanes, or extreme temperatures. These alerts can be displayed prominently to ensure users stay informed and take necessary precautions.
 
 ## Optional Features
 7. Units of Measurement: Allow users to choose their preferred units of measurement, such as Fahrenheit or Celsius for temperature, mph or km/h for wind speed, and inches or millimeters for precipitation.
