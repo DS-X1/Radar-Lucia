@@ -1,8 +1,8 @@
-A basic weather website typically includes several key components to provide weather information to users. Here are some essential parts you would typically find in a basic weather website:
+# Planned Features
 
-1. Current Weather Display: Show the current weather conditions, such as temperature, humidity, wind speed, and weather description (e.g., sunny, cloudy, rainy). This section often includes an icon or image representing the weather condition.
+## Main Stuff
 
-2. Location Search: Allow users to search for a specific location or enter their location to get weather information. This feature can be a search bar or a dropdown menu with popular locations.
+1. Current Weather Display: Show the current weather conditions, such as temperature, humidity, wind speed, and weather description (e.g., sunny, cloudy, rainy). Includes an icon or image representing the weather condition.
 
 3. Forecast: Display a weather forecast for upcoming days, usually including the high and low temperatures, weather descriptions, and possibly additional details like precipitation probability.
 
@@ -12,12 +12,11 @@ A basic weather website typically includes several key components to provide wea
 
 6. Weather Alerts: Notify users about severe weather alerts, such as storms, hurricanes, or extreme temperatures. These alerts can be displayed prominently to ensure users stay informed and take necessary precautions.
 
+## Optional Features
 7. Units of Measurement: Allow users to choose their preferred units of measurement, such as Fahrenheit or Celsius for temperature, mph or km/h for wind speed, and inches or millimeters for precipitation.
 
 8. Background Images: Consider incorporating relevant background images or graphics that match the current weather conditions or the overall theme of the website. These visuals can enhance the user experience.
 
 9. Responsive Design: Ensure the website is responsive and can adapt to different screen sizes, including desktop, tablets, and mobile devices. This feature enables a consistent and accessible experience across various devices.
 
-10. Additional Information: Optionally, you can include supplementary weather information like sunrise and sunset times, air quality index, UV index, or any other relevant data that would enhance the user's understanding of the weather conditions.
-
-Remember to comply with any relevant data usage policies, such as utilizing a weather API for retrieving accurate weather data and respecting the terms and conditions of the data provider.
+10. Additional Information: Optionally, supplementary weather information like sunrise and sunset times, air quality index, UV index, or any other relevant data that would enhance the user's understanding of the weather conditions.
